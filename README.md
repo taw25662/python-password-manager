@@ -22,4 +22,8 @@ A simple password manager coded entirely in Python.
 * Python 3.x
 * Tkinter library
 * random library
-* 
+* string library
+* csv library
+
+**Acknowledgements**
+* "logo.png" was obtained from "100 Days of Code - The Complete Python Pro Bootcamp for 2021". The Tkinter UI was also inspired from the same course, although this layout is developed and edited by me. 
